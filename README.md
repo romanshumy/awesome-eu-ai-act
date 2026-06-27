@@ -253,6 +253,7 @@ The [EU AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R
 - **[Import AI](https://jack-clark.net)** — Jack Clark's AI research and policy newsletter.
 - **[IAPP Daily Dashboard](https://iapp.org/news/daily-dashboard/)** — Privacy and AI governance news.
 - **[Audaria](https://audaria.fr)** — French-language editorial observatory tracking EU AI Act and ISO 42001 developments.
+- **[AI Law Radar — The Dispatch](https://ailawradar.com)** — Free weekly digest and a live, primary-sourced tracker of AI-law obligations and deadlines across 13 jurisdictions (EU AI Act + global), with an open API and subscribe-once calendar feeds.
 
 ## Related Awesome Lists
 
